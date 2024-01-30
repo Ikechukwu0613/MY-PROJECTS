@@ -1,5 +1,5 @@
 # MY-PROJECTS
- collection of cool projects and my journey as a coder
+#collection of cool projects and my journey as a coder
 import tkinter as tk
 from tkinter import ttk, messagebox
 from tkinter import StringVar
